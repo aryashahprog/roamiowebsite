@@ -1,0 +1,64 @@
+<!-- BEGIN ROAMIO LANDING PAGE -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Roamio</title>
+  <link href="assets/img/roamio-logo.png" rel="icon">
+  <link href="https://fonts.googleapis.com/css2?family=Anton+SC&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Poppins&family=Raleway&display=swap" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="assets/css/main.css" rel="stylesheet">
+</head>
+<body class="index-page">
+  <header id="header">
+    <nav id="navmenu" class="navmenu"></nav>
+    <div class="header-image">
+      <img src="assets/img/roamio-logo.png" alt="Roamio Logo">
+    </div>
+  </header>
+
+  <main class="main">
+    <section id="cta" class="cta" style="height: 700px; position: relative; overflow: hidden;">
+      <div class="container" style="height: 100%; padding: 0;">
+        <video autoplay loop muted plays-inline class="back-video" style="position: absolute; top: 0; left: 50px; right: 50px; width: calc(100% - 100px); height: 100%; object-fit: cover; border-radius: 30px;">
+          <source src="assets/img/roamio-vid.mp4">
+        </video>
+        <div class="container d-flex flex-column align-items-center justify-content-center text-center content-overlay" data-aos="fade-up">
+          <h2>ROAMIO</h2>
+          <p>We <span class="typed" data-typed-items="connect, discover, thrive, explore, belong, are Roamio"></span></p>
+          <br><br><br>
+          <a href="https://sheetdb.io/api/v1/ozh2aa4b5rh9f"><button class="cta-btn">Join the waitlist – takes 30 seconds</button></a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer id="footer" class="footer" style="background-color: black;">
+    <div class="container" style="padding-bottom: 30px;">
+      <div class="copyright text-center">
+        <a href="https://sheetdb.io/api/v1/ozh2aa4b5rh9f"><button class="cta-btn">Apply Now</button></a><br><br>
+        <p style="font-size: 32px; font-family:Anton SC,sans-serif"><span>while</span><strong class="px-1 sitename">others</strong><span>dream we do</span></p> 
+      </div>
+      <div class="social-links d-flex justify-content-center">
+        <a href="https://www.tiktok.com/@roamio"><i class="bi bi-tiktok"></i></a>
+        <a href="https://www.instagram.com/roamio"><i class="bi bi-instagram"></i></a>
+        <a href="https://www.linkedin.com/company/roamio"><i class="bi bi-linkedin"></i></a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/typed.js/typed.umd.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
+<!-- END ROAMIO LANDING PAGE -->
